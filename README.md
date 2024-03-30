@@ -5,8 +5,8 @@ A replacement for the .357 in Half-Life 2 with the Ruger Mini-14 Ranch Rifle fro
 ### Credit Where It's Due
 * Valve Corporation - Left4Dead
 * Turtle Rock Studios - Left4Dead
-* (Hot_Fuzz)[https://gamebanana.com/mods/234885] - Textures
+* [Hot_Fuzz](https://gamebanana.com/mods/234885) - Textures
 * V92 - Compiles, textures & edits
 
 ### Other Versions
-* (Half-Life 2)[https://gamebanana.com/wips/83657]
+* [Half-Life 2](https://gamebanana.com/wips/83657)
