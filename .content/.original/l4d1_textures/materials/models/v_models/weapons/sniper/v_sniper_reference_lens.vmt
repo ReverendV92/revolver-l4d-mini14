@@ -1,0 +1,9 @@
+vertexlitgeneric
+{
+
+	$basetexture models/v_models/weapons/sniper/v_sniper_reference
+
+	$envmap env_cubemap
+	$envmapmask models/v_models/weapons/sniper/v_sniper_reference_ref
+
+}

@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+
+	$basetexture models/v_models/weapons/sniper/v_sniper_reference
+	$bumpmap dev/bump_normal
+
+	$halflambert 1
+
+	$phong 1
+	$phongboost 1
+	$phongexponent 30
+	$phongfresnelranges "[ 5 5 15 ]"
+	$basemapluminancephongmask 1
+
+	$color2 "[ 3 3 3 ]"
+
+}
