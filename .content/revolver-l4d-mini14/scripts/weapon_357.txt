@@ -17,7 +17,7 @@ weapondata
 
 	clip_size 10
 	default_clip 30
-	primary_ammo 357
+	primary_ammo ar2 //357
 
 	weight 0
 	rumble 2
