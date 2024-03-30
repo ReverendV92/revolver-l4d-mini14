@@ -1,7 +1,7 @@
 vertexlitgeneric
 {
 
-	$basetexture models/v_models/weapons/sniper/v_sniper_reference
+	$basetexture models/v_models/weapons/sniper/mini14_sheet
 	// $envmap env_cubemap
 	// $envmapmask models/v_models/weapons/sniper/v_sniper_reference_ref_2
 	$halflambert 1

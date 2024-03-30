@@ -1,6 +1,7 @@
 vertexlitgeneric
 {
-	$basetexture models/v_models/weapons/sniper/v_sniper_reference_2
+	// $basetexture models/v_models/weapons/sniper/v_sniper_reference_2
+	$basetexture models/v_models/weapons/sniper/mini14_sheet
 	$bumpmap models/v_models/weapons/sniper/v_sniper_reference_normal
 
 	$halflambert 1
