@@ -1,12 +1,15 @@
-VertexLitGeneric
+vertexlitgeneric
 {
-$baseTexture "models\v_models\Weapons\Sniper\V_Sniper_Reference_2.vtf"
-$bumpmap "effects/flat_normal"
+	$basetexture models/v_models/weapons/sniper/v_sniper_reference_2
+	$bumpmap models/v_models/weapons/sniper/v_sniper_reference_normal
 
-$phong 1
-$phongboost 1
-$phongexponent 30
-$phongfresnelranges "[5 5 15]"
-$BASEMAPLUMINANCEPHONGMASK 1
-$color2 "[ 3 3 3 ]"
+	$halflambert 1
+	// $phongboost 1
+	// $phongexponent 30
+	// $phongfresnelranges "[ 10 10 30 ]"
+	// $basemapluminancephongmask 1
+	// $phong 0
+	// gpu>=2?$phong 1
+
+	// $color2 "[ 1.1 1.1 1.1 ]"
 }
