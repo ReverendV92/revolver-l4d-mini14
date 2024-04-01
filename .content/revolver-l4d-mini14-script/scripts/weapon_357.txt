@@ -1,0 +1,116 @@
+
+//////////////////////////////
+// Scoped Karabiner 98k
+//////////////////////////////
+
+weapondata
+{
+
+	printname "MINI-14"
+	viewmodel models/weapons/v_357.mdl
+	playermodel models/weapons/w_357.mdl
+	anim_prefix ar2
+	bucket 1
+	bucket_position 1
+	bucket_360 0
+	bucket_position_360 1
+
+	clip_size 10
+	default_clip 30
+	primary_ammo 357
+
+	weight 0
+	rumble 2
+	item_flags 36
+
+	sounddata
+	{
+
+		// When an NPC reloads
+		reload_npc Weapon_357.Reload
+
+		// Dry-fire
+		empty Weapon_Pistol.Empty
+
+		// When the player fires
+		single_shot Weapon_357.Single
+
+		// When an NPC fires
+		single_shot_npc Weapon_357.Single
+
+	}
+
+	texturedata
+	{
+
+		weapon
+		{
+			// font weaponicons
+			// character e
+			file vgui/hud/iconsheet
+			x 320
+			y 384
+			width 192
+			height 64
+		}
+
+		weapon_s
+		{	
+			// font weaponiconsselected
+			// character e
+			file vgui/hud/iconsheet
+			x 320
+			y 384
+			width 192
+			height 64
+		}
+
+		weapon_small
+		{
+			font weaponiconssmall
+			character e
+		}
+
+		ammo
+		{
+			font weaponiconssmall
+			character r
+		}
+
+		crosshair
+		{
+			font crosshairs
+			character Q
+		}
+
+		autoaim
+		{
+			font crosshairs
+			character Q
+		}
+
+		zoom
+		{
+			// font crosshairs
+			// character Q
+			file sprites/scope_2
+			x 0
+			y 0
+			width 4096
+			height 2048
+		} 
+
+		zoom_autoaim
+		{
+			// font crosshairs
+			// character Q
+			file sprites/scope_2
+			x 0
+			y 0
+			width 4096
+			height 2048
+		}
+
+	}
+
+}
