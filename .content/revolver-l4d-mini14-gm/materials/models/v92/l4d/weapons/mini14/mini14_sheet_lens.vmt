@@ -1,0 +1,10 @@
+vertexlitgeneric
+{
+	$basetexture models/v92/l4d/weapons/mini14/mini14_sheet
+	$bumpmap models/v92/l4d/weapons/mini14/mini14_sheet_normal
+	$lightwarptexture dev/identitylightwarp
+	$phongboost 1
+	$phongexponent 30
+	$phongfresnelranges "[ 10 10 30 ]"
+	$basemapluminancephongmask 1
+}

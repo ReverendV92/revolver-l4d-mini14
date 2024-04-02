@@ -1,0 +1,16 @@
+vertexlitgeneric
+{
+	// $basetexture models/v_models/weapons/sniper/v_sniper_reference_2
+	$basetexture models/v92/l4d/weapons/mini14/mini14_sheet
+	$bumpmap models/v92/l4d/weapons/mini14/mini14_sheet_normal
+
+	$halflambert 1
+	// $phongboost 1
+	// $phongexponent 30
+	// $phongfresnelranges "[ 10 10 30 ]"
+	// $basemapluminancephongmask 1
+	// $phong 0
+	// gpu>=2?$phong 1
+
+	// $color2 "[ 1.1 1.1 1.1 ]"
+}

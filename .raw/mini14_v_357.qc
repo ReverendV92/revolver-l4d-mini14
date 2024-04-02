@@ -4,7 +4,8 @@ $modelname weapons/v_357
 
 $model "Ruger Mini-14" v_hunting_rifle_model
 // $model "Ruger Mini-14" mini14_v
-$model Hands hands_reference
+// $model Hands hands_reference
+$model Hands hl2_l4d2
 // $model "Scope" mini14_v_scope
 // $model "10rd Mag" mini14_v_magazine
 // $model "Torch" mini14_v_torch
